@@ -1,0 +1,7 @@
+Weight = input('Whats your weight in kilos?: ')
+Height = input('Whats your height in meters?: ')
+BMI = float(Weight) / float(Height) / float(Height)
+print('Your BMI is: ')
+print(BMI)
+print('Made by Uros Velicki 2019')
+Bye = input('Press Enter to exit...')
